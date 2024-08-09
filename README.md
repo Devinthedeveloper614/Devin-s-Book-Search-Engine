@@ -26,13 +26,6 @@ This is a MERN stack (MongoDB, Express.js, React.js, Node.js) application that s
 
 NOTE: As of November 2022, Heroku has no "free" accounts, so the demo application has been taken offline until another suitable host can be found.
 
-## Screenshots
-
-![screenshot1](./assets/screenshot1.png)
-
-![screenshot2](./assets/screenshot2.png)
-
-![screesnhot3](./assets/screenshot3.png)
 
 ## Usage
 
